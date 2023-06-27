@@ -1,0 +1,50 @@
+<!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-reset.css" rel="stylesheet">
+    <!--external css-->
+    <link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap-fileupload/bootstrap-fileupload.css" />
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap-wysihtml5/bootstrap-wysihtml5.css" />
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap-datepicker/css/datepicker.css" />
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap-timepicker/compiled/timepicker.css" />
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap-daterangepicker/daterangepicker-bs3.css" />
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap-datetimepicker/css/datetimepicker.css" />
+    <link rel="stylesheet" type="text/css" href="assets/colorpicker/css/bootstrap-colorpicker.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/jquery-multi-select/css/multi-select.css" />
+    
+    <!--bootstrap switcher-->
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap-switch/static/stylesheets/bootstrap-switch.css" />
+
+   <!-- switchery-->
+    <link rel="stylesheet" type="text/css" href="assets/switchery/switchery.css" />
+
+    <!--select 2-->
+    <link rel="stylesheet" type="text/css" href="assets/select2/css/select2.min.css"/>
+
+    <!--right slidebar-->
+    <link href="css/slidebars.css" rel="stylesheet">
+    
+     <!--  summernote -->
+      <link href="assets/summernote/summernote-bs4.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-responsive.css" rel="stylesheet" />
+    
+    <!--Form Wizard-->
+    <link rel="stylesheet" type="text/css" href="css/jquery.steps.css" />
+    
+    <!--Video Player Css Start-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.6/mediaelementplayer.css">
+    <link rel="stylesheet" href="css/video/context-menu.css">
+    <link rel="stylesheet" href="css/video/loop.css">
+    <link rel="stylesheet" href="css/video/stop.css">
+    <link rel="stylesheet" href="css/video/playlist.css">
+    <link rel="stylesheet" href="css/video/jump-forward.css">
+    <link rel="stylesheet" href="css/video/skip-back.css">
+    <link rel="stylesheet" href="css/video/source-chooser.css">
+    <link rel="stylesheet" href="css/video/speed.css">
+    <link rel="stylesheet" href="css/video/vrview.css">
+    <!--<link rel="stylesheet" href="css/video/demo.css">-->
+    <!--Video Player Css End-->
