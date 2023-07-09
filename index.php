@@ -29,7 +29,6 @@
 <meta name="site" content="">
 <meta name="technologies" content="">
 <meta name="description" content="">
-<meta name="author" content="Nidheesh [UI/UX Designer & Developer]">
 <link rel="icon" href="#">
 <title>Welcome to Ehafiz</title>
 <!-- Core CSS -->
@@ -99,7 +98,10 @@
                         </h1>
             <h2>Why e-Hafiz</h2>
             <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                Memorizing the Quran is an act of worship through which a muslim seeks God's pleasure
+                and is rewarded in the hereafter. The benifits of Al-HAfiz are enormous, Allah has
+                given special rewards and privilages to those who learn the Holy Quran in many ways
+                in this world and hereafter
             </p>
         </div>
                 </div>

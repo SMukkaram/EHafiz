@@ -89,8 +89,15 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium ab ipsa quas rem adipisci, tempore similique possimus voluptates earum suscipit? Minima, dignissimos consequuntur, repudiandae porro omnis sequi fuga ullam beatae.</p>
-      </div>
+        <p>This course is suitable for beginners. You will find this course simple, easy, and well-structured. In just 18 hours you will learn how to read the Quran with Tajweed.
+You will find interactive videos, textbooks, and workbooks for practice. 
+</p>
+<div class="text-center w-100 mt-2">
+<a href="register.php" class="btn btn-success">
+Start Learning
+</a>
+</div>
+</div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
       </div>
@@ -109,7 +116,15 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic ipsam, accusamus reiciendis eum consectetur, vero corporis voluptates vitae atque nobis sunt facere at. Esse vero obcaecati, accusamus illo. Vel, sit.</p>
+        <p>Tajweed Course is for those who can read the Quran but don't know Tajweed. 
+          In simple lessons, you will learn basics of tajweed along with many tips and tricks to remember 
+          the rules of recitation. You will find interactive videos, textbooks, and workbooks for practice. 
+</p>
+        <div class="text-center w-100 mt-2">
+<a href="register.php" class="btn btn-success">
+Start Learning
+</a>
+</div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -129,7 +144,13 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In voluptatibus laborum dolorem porro, amet, error qui molestiae dolores, id inventore eum a quibusdam quia non, sit accusamus ea rerum similique.</p>
+        <p>The main objective of the Hifz program is to develop love and respect of the Qur’an to the extent that the student loves to memorize, recite, understand, ponder, implement, and propagate the message; or in other words, make it a book of guidance.</p>
+
+        <div class="text-center w-100 mt-2">
+<a href="register.php" class="btn btn-success">
+Start Learning
+</a>
+</div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -149,7 +170,15 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos voluptate, quam incidunt blanditiis molestiae, cum. Odit labore itaque, officia hic unde ducimus, tenetur nobis rem aperiam sint rerum deleniti. Repudiandae!</p>
+        <p>
+          Start with the easiest and most powerful course of just 12 hours that will take you to understand 50% words of the Qur’an.  Continue with ease to higher levels.
+          You will find interactive videos, textbooks, and workbooks for practice. 
+        </p>
+        <div class="text-center w-100 mt-2">
+          <a href="register.php" class="btn btn-success">
+          Start Learning
+          </a>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

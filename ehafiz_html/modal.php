@@ -89,7 +89,12 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium ab ipsa quas rem adipisci, tempore similique possimus voluptates earum suscipit? Minima, dignissimos consequuntur, repudiandae porro omnis sequi fuga ullam beatae.</p>
+        <p>This course is suitable for beginners. You will find this course simple, easy, and well-structured. In just 18 hours you will learn how to read the Quran with Tajweed.
+You will find interactive videos, textbooks, and workbooks for practice. 
+</p>
+<a href="login.php">
+Start Learning
+</a>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

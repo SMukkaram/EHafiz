@@ -248,38 +248,38 @@ margin-top: 49px;
 .ideaBox_figure-Caption::after{
     content: 'Noorani Qaedah';
     position: relative;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Cera Pro';
     font-weight: 500;
-    bottom: 39px;
-    left: 85px;
+    bottom: 32px;
+    left: 60px;
 }
 .ideaBox_figure-Caption1::after{
     content: 'Tajweed';
     position: relative;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Cera Pro';
     font-weight: 500;
-    bottom: 39px;
-    left: 85px;
+    bottom: 32px;
+    left: 32px;
 }
 .ideaBox_figure-Caption2::after{
     content: 'Hifz';
     position: relative;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Cera Pro';
     font-weight: 500;
-    bottom: 39px;
-    left: 85px;
+    bottom: 32px;
+    left: 15px;
 }
 .ideaBox_figure-Caption3::after{
     content: 'Understanding';
     position: relative;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Cera Pro';
     font-weight: 500;
-    bottom: 39px;
-    left: 85px;
+    bottom: 32px;
+    left: 60px;
 }
 .ideaBox_figure-Caption4::after{
     content: 'Noorani Qaedah';

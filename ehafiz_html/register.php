@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iofrm</title>
+    <title>Register - E-Hafiz</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/fontawesome-pro.css">
     <link rel="stylesheet" type="text/css" href="css/iofrm-style.css">
@@ -35,7 +35,7 @@
                             <input class="form-control" type="number" name="mobile" placeholder="Mobile Number" required>
                             <input class="form-control" type="text" name="location" placeholder="Password" required>
                             <div class="form-button">
-                                <button id="submit" type="submit" class="ibtn">Register</button>
+                                <button id="submit" type="submit" class="btn btn-success">Register</button>
                             </div>
                         </form>
                         <!--<div class="other-links">-->
