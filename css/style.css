@@ -78,13 +78,19 @@ ul {
 }
 
 /*Fixed Setting End*/
-
+.fp-section.fp-table, .fp-slide.fp-table{
+    height: 720px !important;
+}
+.fp-tableCell{
+    height: 650px !important;
+}
 /*Top Header Section Start*/
 .top-header{
     position: absolute;
     width: 100%;
     padding: 10px 0;
     z-index: 1;
+    background-color: white!important;
 }
 .top-header ul{
     display: flex;
@@ -120,12 +126,16 @@ ul {
     position: absolute;
     width: 100%;
     top: 49px;
+    background-color: white!important;
 }
-
+.sticky-top{
+    background-color: white!important;
+    height: 80px!important;
+}
 .ehafiz_logo>img{
     width: 299px;
     position: absolute;
-    bottom: -50px;
+    bottom: -27px;
     left: 106px;
 }
 .custom_NavBar>.nav-item{

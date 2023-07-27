@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iofrm</title>
+    <title>Register - Ehafiz.Quran</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/fontawesome-pro.css">
     <link rel="stylesheet" type="text/css" href="css/iofrm-style.css">
@@ -33,25 +34,26 @@
                         <div class="page-links">
                             <a href="login_male.php" class="active">Login</a><a href="register.php" class="active">Register</a>
                         </div>
-                        <form  method="post">
+                        <form action="process-signup.php" method="post" id="signup" novalidate>
                             <input class="form-control" type="text" id="Fullname" name="Fullname" placeholder="Full Name" required>
                             <input class="form-control" type="text" id="username" name="username" placeholder="User Name" required>
                             <input class="form-control" type="text" id="emailaddress" name="emailaddress" placeholder="E-mail Address" required>
                             <input class="form-control" type="text" id="phonenumber" name="phonenumber" placeholder="Phone Number" required>
-                            <select class="form-control mb-3" id="gender">
-                            <option value="Gender" >
-                                    Gender
+                            <select class="form-control mb-3" id="gender" name="gender">
+                            <option value="0" >
+                                    Select Gender
                                 </option>
-                                <option value="Male" >
+                                <option value="1" >
                                     Male
                                 </option>
-                                <option value="Female" >
+                                <option value="2" >
                                     Female
                                 </option>
                             </select>
                             <input class="form-control" type="password" name="password" placeholder="Password" required>
+                            <input class="form-control" type="password" name="Confirm_password" placeholder="Confirm Password" required>
                             <div class="form-button text-center">
-                                <button onclick="window.location='userpanel/index.php';" id="submit" type="submit" class="btn btn-success">Register</button>
+                                <button id="submit" type="submit" class="btn btn-success">Register</button>
                             </div>
                             <div class="text-center">
                             <a href="forget_male.php">Forget password?</a>
