@@ -29,7 +29,6 @@
   <meta name="site" content="">
   <meta name="technologies" content="">
   <meta name="description" content="">
-  <meta name="author" content="Nidheesh [UI/UX Designer & Developer]">
   <link rel="icon" href="#">
   <title>Welcome to Ehafiz</title>
   <!-- Core CSS -->
@@ -72,17 +71,7 @@
 <body>
 
 <?php include 'header.php';?>
-<!--<ul id="menu">
-    <li data-menuanchor="firstPage" class="active"><a href="#firstPage">First slide</a></li>
-    <li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
-    <li data-menuanchor="3rdPage"><a href="#3rdPage">Third slide</a></li>
-  </ul>-->
 
-
-<!--<div id="actions">
-    <a id="moveSectionUp" href="#">moveSectionUp</a>
-    <a id="moveSectionDown" href="#">moveSectionDown</a>
-  </div>-->
 
   <div id="fullpage">
     <div class="section">
@@ -96,7 +85,13 @@
           <div class="col-md-6 col-sm-12">
             <div class="about_first_content">
               <h2>ABOUT US</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi repudiandae omnis quidem enim dolor adipisci laborum laudantium blanditiis tenetur distinctio, mollitia id aut maiores qui, cumque, sed tempore ab laboriosam. ipsum dolor sit amet, consectetur adipisicing elit. Unde rem, exercitationem nobis quam optio culpa praesentium saepe, sapiente quis recusandae autem consectetur, laborum voluptate corporis porro temporibus tempore maiores pariatur. ipsum dolor sit amet, consectetur adipisicing elit. Quo suscipit, odio, nulla soluta obcaecati quidem ducimus adipisci incidunt impedit, non reiciendis officiis. Suscipit ea, velit eligendi repellendus amet animi, unde!</p>
+              <p>
+              www.ehafiz.quran.com was launched in 2010. Since then, we have constantly been striving to make learning 
+              the Qur’an simple, easy and effective by developing courses and related materials. 
+              Our level 1 course on understanding the Quran (50% of Qur’anic words) is being taught in almost 25 
+              countries and is translated into 20 international languages. 
+              The syllabus is now implemented in more than 2000 schools.
+              </p>
               <!--<button class="bg-primary">View more</button>-->
             </div>
           </div>
@@ -109,7 +104,13 @@
          <div class="col-md-12 col-sm-12">
            <div class="about_first_content">
              <h2 class="title_second _vision">VISION</h2>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget est lorem ipsum dolor sit.</p>
+             <p>
+             Our goal is to help both Muslims and those who are not Muslims to learn the Arabic language. 
+             We recognize that the objectives of both groups are different but have specifically catered 
+             for the general language requirements with some Islamic aspects integrated into the lessons 
+             to facilitate Muslims and to help inform those who are not Muslim about Islam which has a 
+             close nexus to the Arabic language.
+             </p>
            </div>
            <ul class="about_vision">
              <li class="about_vision_list">
@@ -117,14 +118,21 @@
               <img src="img/aboutus/faith.png" style="margin-bottom: 10px;">
               <h3>FAITH</h3>
               <div class="heading_second"></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p>
+              Videos by our Tajweed experts available in English, Urdu and other languages. 
+              Online Periodic students’ assessments, quizzes and certification will be done.
+              </p>
             </li>
             <li class="about_vision_list">
 
               <img src="img/aboutus/c.png" style="margin-bottom: 10px;">
               <h3>EDUCATION</h3>
               <div class="heading_second"></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p>
+              Textbook, Workbook, Videos, Presentations, and online tajweed games. 
+              TPI, Poems, Stories for learning Makharij, Harakaat & Qawaid. 
+              The whole course will be on the fingertips of the students.
+              </p>
               
             </li>
             <li  class="about_vision_list">
@@ -132,7 +140,10 @@
               <img src="img/aboutus/service.png" style="margin-bottom: 10px;">
               <h3>SERVICES</h3>
               <div class="heading_second"></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p>
+              We have made every effort to display as accurately as possible the colors and images 
+              of our products that appear at the store.
+              </p>
               
             </li>             
           </ul>
@@ -146,7 +157,12 @@
           <div class="col-md-6 col-sm-12">
             <div class="about_first_content _mission">
               <h2>MISSION</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque voluptate aperiam natus minus temporibus officia ducimus hic asperiores esse, sequi itaque veritatis reprehenderit numquam eligendi corporis sapiente provident eveniet aliquam. ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget est lorem ipsum dolor sit. Volutpat odio facilisis mauris sit amet massa. Commodo odio aenean sed adipiscing diam donec adipiscing tristique. Mi eget mauris pharetra et. Non tellus orci ac auctor augue.</p>
+              <p>
+              Ehafiz.quran is an academic, educational, da‘wah website which aims to offer advice and academic 
+              answers based on evidence from religious texts in an adequate and easy-to-understand manner. 
+              The website welcomes questions from everyone, Muslims and otherwise, about Islamic, psychological 
+              and social matters.
+              </p>
             </div>
           </div>
           <div class="col-md-6 col-sm-12">

@@ -29,7 +29,6 @@
   <meta name="site" content="">
   <meta name="technologies" content="">
   <meta name="description" content="">
-  <meta name="author" content="Nidheesh [UI/UX Designer & Developer]">
   <link rel="icon" href="#">
   <title>Welcome to Ehafiz</title>
   <!-- Core CSS -->
@@ -72,17 +71,7 @@
 <body>
 
 <?php include 'header.php';?>
-<!--<ul id="menu">
-    <li data-menuanchor="firstPage" class="active"><a href="#firstPage">First slide</a></li>
-    <li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
-    <li data-menuanchor="3rdPage"><a href="#3rdPage">Third slide</a></li>
-  </ul>-->
 
-
-<!--<div id="actions">
-    <a id="moveSectionUp" href="#">moveSectionUp</a>
-    <a id="moveSectionDown" href="#">moveSectionDown</a>
-  </div>-->
 
   <div id="fullpage">
    <div class="section">
@@ -91,9 +80,14 @@
           <div class="col-sm-12">
             <div class="feature_startup">
               <h1>Product Features of e-Hafiz</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, dolores aspernatur nemo maiores odit aut ipsa esse dignissimos quo sunt cupiditate eaque laboriosam distinctio quia corporis nihil quod! Alias, fugiat?</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus hic laudantium quidem eaque eveniet unde? Ratione blanditiis quam dolor, consectetur ut natus quaerat assumenda, quisquam autem neque a culpa, inventore.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis sapiente quisquam aspernatur quo consequatur deleniti voluptas, esse libero blanditiis quos eveniet ex amet! Nulla autem voluptatibus quasi itaque officiis quae.</p>
+              <p>Memorising the Quran takes a certain lifestyle. Achieving status of Hafiz means 
+                you're in a good condition to continue learning about Islam and increase your knowledge of the Holy Quran.</p>
+              <p>Increase the length of your Salaah, thus becoming closer to Allah. 
+                In order to achieve this, recite more of the Quran (longer Surahs) during your prayers 
+                and follow that way of Prophet Muhammad (PBUH) who also did this beautiful act.</p>
+              <p>The Prophet (PBHU) would usually assigns leaders based on their knowledge of Quran. 
+                A Hafiz in generally respected amongst their community and is a great stepping stone 
+                to gain even more knowledge about the Quran.</p>
             </div>
           </div>
         </div>
@@ -109,7 +103,11 @@
                     <h1>01</h1>
                     <h2>UI E-Learning Dashboard</h2>
                     <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates, quis, fuga ut in quia id quidem maxime officiis similique dolorum inventore atque iste, placeat alias assumenda voluptas accusamus consectetur! ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate a eum ipsum, laborum voluptatem voluptates minus dicta magnam voluptatum ad officia voluptatibus perspiciatis velit quis quos quibusdam consequuntur hic, id.</p>
+                    <p>
+                    Our e-learning dashboard provides users with a learning space where they can see their progress, 
+                    access supporting documentation and view certificates for successfully completed courses. 
+                    The dashboard also allows users to pause their progress during a course and resume at a later date or time.
+                    </p>
                     </div>
                 </div>
             </div>
@@ -121,7 +119,10 @@
                     <h1>02</h1>
                     <h2>AI Based Chatbots</h2>
                     <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates, quis, fuga ut in quia id quidem maxime officiis similique dolorum inventore atque iste, placeat alias assumenda voluptas accusamus consectetur! ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate a eum ipsum, laborum voluptatem voluptates minus dicta magnam voluptatum ad officia voluptatibus perspiciatis velit quis quos quibusdam consequuntur hic, id.</p>
+                    <p>
+                    It is a computer program that uses artificial intelligence (AI) and natural language processing (NLP) 
+                    to understand customer questions and automate responses to them, simulating human conversation.
+                    </p>
                 </div>
             </div>
           </div>
@@ -132,7 +133,11 @@
 <h1>03</h1>
 <h2>User friendly System</h2>
 <hr>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates, quis, fuga ut in quia id quidem maxime officiis similique dolorum inventore atque iste, placeat alias assumenda voluptas accusamus consectetur! ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate a eum ipsum, laborum voluptatem voluptates minus dicta magnam voluptatum ad officia voluptatibus perspiciatis velit quis quos quibusdam consequuntur hic, id.</p>
+<p>
+It's a technical solution that is easy for all (or at least most) people to use to get their jobs done. 
+This doesn't mean the software isn't complex and feature-rich behind the scenes or that anyone can step 
+up to a computer and operate it correctly
+</p>
 </div>
 </div>
             </div>
@@ -149,7 +154,11 @@
 <h1>04</h1>
 <h2>Flexbility System</h2>
 <hr>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates, quis, fuga ut in quia id quidem maxime officiis similique dolorum inventore atque iste, placeat alias assumenda voluptas accusamus consectetur! ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate a eum ipsum, laborum voluptatem voluptates minus dicta magnam voluptatum ad officia voluptatibus perspiciatis velit quis quos quibusdam consequuntur hic, id.</p>
+<p>
+System flexibility is the ability of the system to cope with product variety. 
+Based on industrial experience, the production system may be represented by three 
+main elements, which are products, processes and resources.
+</p>
 </div>
 </div>
           </div>
@@ -160,7 +169,10 @@
                     <h1>05</h1>
                     <h2>Easy Methodologies</h2>
                     <hr>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates, quis, fuga ut in quia id quidem maxime officiis similique dolorum inventore atque iste, placeat alias assumenda voluptas accusamus consectetur! ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate a eum ipsum, laborum voluptatem voluptates minus dicta magnam voluptatum ad officia voluptatibus perspiciatis velit quis quos quibusdam consequuntur hic, id.</p>
+                    <p>
+                    It is the logical process or step by step road map on how to solve a research 
+                    problem that calls for development of a theory through gathering of the relevant information.
+                    </p>
                     </div>
                 </div>
             </div>
@@ -171,7 +183,11 @@
                 <h1>06</h1>
                 <h2>Powerful Anlytics</h2>
                 <hr>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates, quis, fuga ut in quia id quidem maxime officiis similique dolorum inventore atque iste, placeat alias assumenda voluptas accusamus consectetur! ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate a eum ipsum, laborum voluptatem voluptates minus dicta magnam voluptatum ad officia voluptatibus perspiciatis velit quis quos quibusdam consequuntur hic, id.</p>
+                <p>
+                Analytical skills are the ability to look at information and work out what is important 
+                and relevant to the task or problem in hand. They require a whole load of other skills 
+                including problem-solving, critical thinking and research.
+                </p>
                 </div>
             </div>
           </div>

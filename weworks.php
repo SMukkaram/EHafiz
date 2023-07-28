@@ -72,17 +72,7 @@
 <body>
 
 <?php include 'header.php';?>
-<!--<ul id="menu">
-    <li data-menuanchor="firstPage" class="active"><a href="#firstPage">First slide</a></li>
-    <li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
-    <li data-menuanchor="3rdPage"><a href="#3rdPage">Third slide</a></li>
-  </ul>-->
 
-
-<!--<div id="actions">
-    <a id="moveSectionUp" href="#">moveSectionUp</a>
-    <a id="moveSectionDown" href="#">moveSectionDown</a>
-  </div>-->
 
   <div id="fullpage">
     <div class="section">
@@ -91,8 +81,13 @@
           <div class="col-md-6 col-sm-12">
             <div class="about_first_content _mission">
               <h2>Our Process</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque voluptar augue.</p>
-              <ul class="work__list">
+              <p>
+              In this series, we present our humble efforts in trying to make the learning of the Qur’an easy for 
+              children as well as adults.  
+              In just 50 video lessons (Total duration: 18 hours), you will learn to read Arabic letters and 
+              words with built-in Tajweed rules.
+              </p>
+              <!-- <ul class="work__list">
                   <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
                   <li>Quia in similique molestiae accusantium alias quae? Qui incidunt, </li>
                   <li>Perferendis deserunt in ea iste sit nobis delectus omnis pariatur. </li>
@@ -101,7 +96,7 @@
                   <li>Dicta eius fugiat eveniet, obcaecati facilis tempora earum vel, atque.</li>
                   <li>Mollitia pariatur dicta aperiam modi obcaecati eveniet blanditiis maiores quidem.</li>
                   <li>Magnam, et. Nulla quaerat ratione expedita officia numquam.</li>
-              </ul>
+              </ul> -->
             </div>
           </div>
           <div class="col-md-6 col-sm-12">

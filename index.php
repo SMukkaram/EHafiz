@@ -74,6 +74,17 @@
 
 <?php include 'header.php';?>
 
+<!--<ul id="menu">
+    <li data-menuanchor="firstPage" class="active"><a href="#firstPage">First slide</a></li>
+    <li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
+    <li data-menuanchor="3rdPage"><a href="#3rdPage">Third slide</a></li>
+</ul>-->
+
+
+<!--<div id="actions">
+    <a id="moveSectionUp" href="#">moveSectionUp</a>
+    <a id="moveSectionDown" href="#">moveSectionDown</a>
+</div>-->
 
 <div id="fullpage">
     <div class="section">
@@ -421,7 +432,7 @@ will merit double rewards.</q></h5>
             </div>
         </div>
     </div>
-    
+  
     <!--Media & Blog Division End-->
     <div class="section">
         <div class="container">
@@ -446,7 +457,7 @@ will merit double rewards.</q></h5>
             </div>
         </div>
     </div>
-  
+ 
     <?php include 'contact.php';?>
     <?php include 'fullfooter.php';?>
 </div>
